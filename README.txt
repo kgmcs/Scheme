@@ -28,6 +28,11 @@ BiwaScheme's built-in random-integer function. All of the files in the zip conta
 the Replits on which you can properly run the designated program. With my thoughts and the 
 disclaimer written, I can begin discussing my explorations in further detail.
 
+Link to run Hello World program on replit: https://replit.com/@KylaGarcia/Hello-World
+Link to run on Magic 8-Ball program replit: https://replit.com/@KylaGarcia/Magic-8-Ball#main.scm
+Link to run on Most Important Functions program replit: https://replit.com/@KylaGarcia/Most-Important-Functions#main.scm
+Link to run on More Scheme Basics program replit: https://replit.com/@KylaGarcia/More-Scheme-Basics#main.scm
+
 Milestones!
 I think by far my biggest milestone was managing to make a working (semi-working?) program in
 a language that 2 weeks ago I knew nothing about! Although there were many stumbling points
