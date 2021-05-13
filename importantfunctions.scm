@@ -6,6 +6,7 @@
 
 ;; Although this program is in a zip file, I strongly advice (require) running it on replit since it was made using BiwaScheme Interpreter version 0.6.4 which is not what most Scheme interpreters use.
 ;; Link to run on replit: https://replit.com/@KylaGarcia/Most-Important-Functions#main.scm
+;; Replit edit link if first link does not work: https://replit.com/join/dmvrvlch-kylagarcia
 
 ;; Some of the most important functions in Scheme are the cons, car, and cdr functions. 
 ;; This small compilation of programs will seek to demonstrate how these work and different ways they can be implemented.
